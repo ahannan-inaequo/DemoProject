@@ -1,0 +1,16 @@
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\TimeCheckBLL.deps.json
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\TimeCheckBLL.dll
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\TimeCheckBLL.pdb
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\TimeCheckData.dll
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\TimeCheckUtility.dll
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\log4net.dll
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\TimeCheckData.pdb
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\TimeCheckUtility.pdb
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\bin\Release\netcoreapp3.1\log4net.xml
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\obj\Release\netcoreapp3.1\TimeCheckBLL.csprojAssemblyReference.cache
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\obj\Release\netcoreapp3.1\TimeCheckBLL.AssemblyInfoInputs.cache
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\obj\Release\netcoreapp3.1\TimeCheckBLL.AssemblyInfo.cs
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\obj\Release\netcoreapp3.1\TimeCheckBLL.csproj.CoreCompileInputs.cache
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\obj\Release\netcoreapp3.1\TimeCheckBLL.csproj.CopyComplete
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\obj\Release\netcoreapp3.1\TimeCheckBLL.dll
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckBLL\obj\Release\netcoreapp3.1\TimeCheckBLL.pdb

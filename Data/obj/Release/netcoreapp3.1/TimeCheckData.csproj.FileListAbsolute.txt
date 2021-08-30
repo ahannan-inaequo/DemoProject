@@ -1,0 +1,12 @@
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\bin\Release\netcoreapp3.1\TimeCheckData.deps.json
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\bin\Release\netcoreapp3.1\TimeCheckData.runtimeconfig.json
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\bin\Release\netcoreapp3.1\TimeCheckData.runtimeconfig.dev.json
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\bin\Release\netcoreapp3.1\TimeCheckData.dll
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\bin\Release\netcoreapp3.1\TimeCheckData.pdb
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\obj\Release\netcoreapp3.1\TimeCheckData.csprojAssemblyReference.cache
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\obj\Release\netcoreapp3.1\TimeCheckData.AssemblyInfoInputs.cache
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\obj\Release\netcoreapp3.1\TimeCheckData.AssemblyInfo.cs
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\obj\Release\netcoreapp3.1\TimeCheckData.csproj.CoreCompileInputs.cache
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\obj\Release\netcoreapp3.1\TimeCheckData.dll
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\obj\Release\netcoreapp3.1\TimeCheckData.pdb
+D:\AB_Workspace\GIT_DESKTOP\ADS-TIMECHECK-LITE-API\TimeCheckData\obj\Release\netcoreapp3.1\TimeCheckData.genruntimeconfig.cache
