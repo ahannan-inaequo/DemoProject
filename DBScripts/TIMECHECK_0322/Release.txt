@@ -1,2 +1,0 @@
-This Script is done afer Role and Permission changes done 
-Removed Previlliage implimetation adn replaced it with Role Permission and Scope!
